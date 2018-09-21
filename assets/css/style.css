@@ -1,0 +1,22 @@
+/**
+ * Homework 1 UNH bootcamp
+ **/
+
+header {
+     font-size: 20px;
+     background-color: #4aaaa5;
+     color: white;
+
+ }
+
+ #About {
+  font-size: 10px;
+  color: black
+
+ }
+
+ body {
+     font: 24px;
+     line-height: 30px;
+     color: #777777
+ }
