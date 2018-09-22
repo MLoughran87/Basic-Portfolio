@@ -10,13 +10,43 @@ header {
  }
 
  #About {
-  font-size: 10px;
-  color: black
+  font-size: 20px;
+  color: black;
+  float: right;
 
  }
+ #Contact {
+    font-size: 20px;
+    color: black;
+    float: right;
+  
+   }
+#Portfolio{
+    font-size: 20px;
+    color: black;
+    float: right;
+  
+   }
+
+container {
+    float: right;
+}
 
  body {
      font: 24px;
      line-height: 30px;
-     color: #777777
+     color: #777777;
+     padding: 20px;
+
+ }
+
+ .wrapper {
+    width: 600px;
+    padding: 20px;
+    margin: 0 auto;
+ }
+
+ footer {
+     text-align: center;
+     background: #666666
  }
